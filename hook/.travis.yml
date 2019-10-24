@@ -1,0 +1,12 @@
+language: python
+python:
+  - "3.4"
+
+install:
+  - pip install -r requirements.txt
+
+before_script:
+  - python test.py
+
+script:
+  - python main.py index.py
