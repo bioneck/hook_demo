@@ -4,7 +4,7 @@
 
 #### Install required filesets
 
-$ pip install -r requirements.txt
+$ pip3 install -r requirements.txt
 
 #### Run web server in 127.0.0.1:5000
 

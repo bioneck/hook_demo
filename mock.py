@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def mock_db(key_word):
     db={
         'name': 'Yajyuu',
